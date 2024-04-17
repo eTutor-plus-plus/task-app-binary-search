@@ -11,8 +11,6 @@ server:
 springdoc:
   api-docs:
     enabled: false
-  swagger-ui:
-    enabled: false
 
 # Spring
 spring:
